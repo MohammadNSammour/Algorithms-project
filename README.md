@@ -64,6 +64,18 @@ A C# Windows Forms application (.NET Framework) designed to **visualize, test, a
 - and from form3 to form 20 is about the each algorithm supported in this program
 ---
 
+## Author
+
+Developed by **Mohammad nafiz sammour**
+
+---
+
+## License
+
+This application is open-source and free to use. If you modify or redistribute it, please include credit or contact the author.
+
+---
+
 ## Future Improvements
 - Add visual step-by-step walkthroughs
 - Integrate complexity graphs
