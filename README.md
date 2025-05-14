@@ -9,7 +9,7 @@ A C# Windows Forms application (.NET Framework) designed to **visualize, test, a
 -**Main Menu Form**: Central control panel to navigate through all algorithm modules.
 -**Modular Forms**: Each algorithm is implemented in its own form with input/output controls.
 -**Multi-Window Comparison**: Run multiple forms simultaneously to compare algorithms visually.
--**Complexity Tracking**: Display basic insights about time and space usage per algorithm.
+-**Complexity Tracking**: Display basic insights about time complexity per algorithm.
 
 ---
 
