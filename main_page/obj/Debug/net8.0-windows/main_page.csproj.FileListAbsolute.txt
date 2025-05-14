@@ -1,0 +1,139 @@
+C:\Users\sammour\source\repos\main_page\bin\Debug\net8.0-windows\main_page.exe
+C:\Users\sammour\source\repos\main_page\bin\Debug\net8.0-windows\main_page.deps.json
+C:\Users\sammour\source\repos\main_page\bin\Debug\net8.0-windows\main_page.runtimeconfig.json
+C:\Users\sammour\source\repos\main_page\bin\Debug\net8.0-windows\main_page.dll
+C:\Users\sammour\source\repos\main_page\bin\Debug\net8.0-windows\main_page.pdb
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.Form1.resources
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.Properties.Resources.resources
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.csproj.GenerateResource.cache
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfoInputs.cache
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfo.cs
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.csproj.CoreCompileInputs.cache
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.dll
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\refint\main_page.dll
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.pdb
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.genruntimeconfig.cache
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\ref\main_page.dll
+C:\Users\sammour\source\repos\main_page\obj\Debug\net8.0-windows\main_page.Form2.resources
+G:\visual studio\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.exe
+G:\visual studio\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.deps.json
+G:\visual studio\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.runtimeconfig.json
+G:\visual studio\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.dll
+G:\visual studio\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.pdb
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form1.resources
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form2.resources
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Properties.Resources.resources
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.GenerateResource.cache
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.GeneratedMSBuildEditorConfig.editorconfig
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfoInputs.cache
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfo.cs
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.CoreCompileInputs.cache
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.dll
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\refint\main_page.dll
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.pdb
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.genruntimeconfig.cache
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\ref\main_page.dll
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form3.resources
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form4.resources
+G:\visual studio\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form5.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.exe
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.deps.json
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.runtimeconfig.json
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.dll
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.pdb
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form1.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form2.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form3.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form4.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form5.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Properties.Resources.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.GenerateResource.cache
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.GeneratedMSBuildEditorConfig.editorconfig
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfoInputs.cache
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfo.cs
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.CoreCompileInputs.cache
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.dll
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\refint\main_page.dll
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.pdb
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.genruntimeconfig.cache
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\ref\main_page.dll
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form10.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form6.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form7.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form8.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form9.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form11.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form12.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form1.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form10.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form11.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form12.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form2.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form3.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form4.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form5.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form6.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form7.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form8.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form9.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Properties.Resources.resources
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.GenerateResource.cache
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.GeneratedMSBuildEditorConfig.editorconfig
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfoInputs.cache
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfo.cs
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.CoreCompileInputs.cache
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.dll
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\refint\main_page.dll
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.pdb
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.exe
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.deps.json
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.runtimeconfig.json
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.dll
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\bin\Debug\net8.0-windows\main_page.pdb
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.genruntimeconfig.cache
+H:\Other computers\My Computer\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\ref\main_page.dll
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form13.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form14.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form15.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form16.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form17.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form18.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form19.resources
+G:\visual studio\Algorithms\Algorithms project files\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form20.resources
+C:\Users\mohammad\Desktop\main_page\main_page\bin\Debug\net8.0-windows\main_page.exe
+C:\Users\mohammad\Desktop\main_page\main_page\bin\Debug\net8.0-windows\main_page.deps.json
+C:\Users\mohammad\Desktop\main_page\main_page\bin\Debug\net8.0-windows\main_page.runtimeconfig.json
+C:\Users\mohammad\Desktop\main_page\main_page\bin\Debug\net8.0-windows\main_page.dll
+C:\Users\mohammad\Desktop\main_page\main_page\bin\Debug\net8.0-windows\main_page.pdb
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form1.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form10.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form11.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form12.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form13.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form14.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form15.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form16.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form17.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form18.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form19.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form2.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form20.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form3.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form4.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form5.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form6.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form7.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form8.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Form9.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.Properties.Resources.resources
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfoInputs.cache
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.AssemblyInfo.cs
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.dll
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\refint\main_page.dll
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.pdb
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\main_page.genruntimeconfig.cache
+C:\Users\mohammad\Desktop\main_page\main_page\obj\Debug\net8.0-windows\ref\main_page.dll
