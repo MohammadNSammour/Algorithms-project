@@ -58,5 +58,14 @@ A C# Windows Forms application (.NET Framework) designed to **visualize, test, a
 ---
 
 ## Project Structure
--Form 1-->User validation
--Form 2-->Menu and control interface that contains a buttons,and each button leads to specific algorithm
+
+- Form 1-->User validation
+- Form 2-->Menu and control interface that contains a buttons,and each button leads to specific algorithm
+- and from form3 to form 20 is about the each algorithm supported in this program
+---
+
+## Future Improvements
+- Add visual step-by-step walkthroughs
+- Integrate complexity graphs
+- Add more algorithms (e.g., Dijkstra,etc)
+
